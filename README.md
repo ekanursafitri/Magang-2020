@@ -148,5 +148,5 @@ CARA UNTUK MENAMPILKAN GAMBAR PADA GITHUB
 ![6](https://user-images.githubusercontent.com/61961641/76601339-4bf45100-653b-11ea-952a-59ee7a26b164.png)
  
 7.	Kemudian klik tab preview maka logo yang di upload akan muncul di file readme.md seperti gambar di bawah ini
-![logo universitas BI](https://user-images.githubusercontent.com/61961641/76585546-39652200-6511-11ea-8232-ded028b1a7e3.png)
+![7](https://user-images.githubusercontent.com/61961641/76601354-51ea3200-653b-11ea-904d-e57ac6289628.png)
  

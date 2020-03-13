@@ -126,26 +126,26 @@ Selesai..
 
 14.	untuk mengambil file yang sudah di ubah dan di upload.
 ![14](https://user-images.githubusercontent.com/61961641/76600653-e6539500-6539-11ea-9a5a-c1380595c5f6.png) 
+
+
 CARA UNTUK MENAMPILKAN GAMBAR PADA GITHUB
 1.	membuat repository di github klik di pojok kanan atas icon plus kemudian klik New repository seperti gambar di bawah ini :
- 
-2.	Selanjutnya buatlah sebuat repository, sesuaikan dengan aplikasi yang akan di Simpan di repo guithub, pilih public atau private repository, public artinya repository anda bisa di lihat oleh orang lain, Priveate artinya repository anda hanya anda sendiri yang bisa melihatnya, selanjutnya silahkan klik button create repository (ihat gambar di bawah ini)
- 
+![1](https://user-images.githubusercontent.com/61961641/76601299-34b56380-653b-11ea-9e39-81a8fdc0e3f3.png)
 
- 
+2.	Selanjutnya buatlah sebuat repository, sesuaikan dengan aplikasi yang akan di Simpan di repo guithub, pilih public atau private repository, public artinya repository anda bisa di lihat oleh orang lain, Priveate artinya repository anda hanya anda sendiri yang bisa melihatnya, selanjutnya silahkan klik button create repository (ihat gambar di bawah ini)
+![2](https://user-images.githubusercontent.com/61961641/76601301-37b05400-653b-11ea-8765-6e3135cd5534.png)
+
 3.	Selanjutnya di tab code akan muncul isi dari readme.md, nah kemudian klik tab issue klik button new issu seperti gambar di bawah ini.
- 
+![3](https://user-images.githubusercontent.com/61961641/76601313-3e3ecb80-653b-11ea-937a-e47ee8c189d0.png)
 
 4.	Selanjutnya klik tulisan "Attach files by draggring & dropping..." kemudian pilih gambar yang akan di upload, pada tutorial ini saya pilih upload logo Hakko Blogs (lihat gambar di bawah ini)
- 
-
+![4](https://user-images.githubusercontent.com/61961641/76601319-41d25280-653b-11ea-984e-7d1bfe722e54.png)
  
 5.	Ketika upload gambar selesai maka di tab write akan muncul url dari gambar yang di upload, silahkan anda copy.
-
+![5](https://user-images.githubusercontent.com/61961641/76601331-45fe7000-653b-11ea-86d8-6f46c59f497c.png)
  
 6.	Langkah selanjutnya pastekan url yang di copy tadi di file readme.md, silahkan klik edit file readme.md dan pastekan url yang di copy.
-
- 
+![6](https://user-images.githubusercontent.com/61961641/76601339-4bf45100-653b-11ea-952a-59ee7a26b164.png)
  
 7.	Kemudian klik tab preview maka logo yang di upload akan muncul di file readme.md seperti gambar di bawah ini
 ![logo universitas BI](https://user-images.githubusercontent.com/61961641/76585546-39652200-6511-11ea-8232-ded028b1a7e3.png)

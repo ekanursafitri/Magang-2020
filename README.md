@@ -1,4 +1,4 @@
-PENGERTIAN GITHUB
+                                                          PENGERTIAN GITHUB
 Apa Itu Git?
 Sebelum membahas topik ini lebih lanjut, Anda harus tahu dan paham kalau Git adalah inti atau jantung GitHub. Git merupakan sistem pengontrol versi yang dikembangkan oleh Linus Torvalds (yang juga menciptakan dan mengembangkan Linux).
 Apa Itu Sistem Pengontrol Versi?
@@ -11,15 +11,19 @@ Selain berkontribusi dalam proyek tertentu, GitHub juga memungkinkan usernya unt
 GitHub memang berperan sangat penting dalam memuluskan pekerjaan developer. Namun, platform ini tidak terpaku pada developer saja. Siapa pun bisa menggunakannya untuk mengelola proyek dan bekerja bersama-sama dengan rekan lainnya.
 Jika saat ini Anda dan tim sedang mengerjakan proyek yang harus diupdate secara berkala dan ingin melacak serta menyimpan perubahan apa pun yang terjadi, maka GitHub merupakan platform yang tepat untuk aktivitas seperti ini.
  
-CARA INSTALL GIT
+                                                        CARA INSTALL GIT
 1.	Download git pada website resmi nya git-scm.com, kemudian unduh git sesuai dengan arsitektur komputer kita
 ![1](https://user-images.githubusercontent.com/61961641/76599661-0c783580-6538-11ea-9407-7bc4113bfcc0.png)
+
 2.	Selanjutnya, klik 2x file installer git yang sudah diunduh
 ![2](https://user-images.githubusercontent.com/61961641/76599685-139f4380-6538-11ea-9941-ab6782a418b1.jpg)
+
 3.	Maka akan muncul informasi lisensi git, klik next > untuk melanjutkan
 ![3](https://user-images.githubusercontent.com/61961641/76599710-20239c00-6538-11ea-8f7d-b60a75dbe7d3.jpg)
+
 4.	Selanjutnya menentukan lokasi instalasi. Biarkan saja apa adanya, kemudian klik Next >
 ![4](https://user-images.githubusercontent.com/61961641/76599714-2154c900-6538-11ea-936d-6d8614e7c5b6.jpg)
+
 5.	Selanjutnya pemilihan komoponen, biarkan saja seperti ini kemudian klik Next >
 ![5](https://user-images.githubusercontent.com/61961641/76599716-21ed5f80-6538-11ea-9586-39de5dbb536d.jpg)
 
@@ -50,7 +54,7 @@ CARA INSTALL GIT
 14.	Selamat, Git sudah terinstal di Windows. Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah git --version.
 ![14](https://user-images.githubusercontent.com/61961641/76599761-32053f00-6538-11ea-8eb4-817b57da46b2.png)  
  
-PERINTAH DASAR GITHUB
+                                                      PERINTAH DASAR GITHUB
 Ada beberapa perintah dasar yang biasanya digunakan, perintah dimulai dari kata “git” :
 a.	git config
 Salah satu perintah git yang paling banyak digunakan adalah git config, yang bisa digunakan untuk mengatur konfigurasi tertentu sesuai keinginan pengguna, seperti email, algoritma untuk diff, username, format file, dll. 
@@ -73,7 +77,8 @@ melihat branch yang tersedia pada repositori.
 j.	git merge
 menggabungkan semua branch yang ada pada repositori.
  
-CARA LOGIN AKUN GITHUB DAN MEMBUBUAT REPOSITORY BARU
+                                          CARA LOGIN AKUN GITHUB DAN MEMBUBUAT REPOSITORY BARU
+LOGIN GITHUB
 1.	Buka github.com dibrowser
 ![1](https://user-images.githubusercontent.com/61961641/76600609-d3d95b80-6539-11ea-8a5b-de18ae3245cd.jpg)
 
@@ -82,8 +87,7 @@ dan login menggunakan akun yang sudah dibuat
 
 Jika belum terdaftar klik sign up pada halaman awal github. Selesai
 
-Cara membuat repository baru
- 
+CARA MEMBUAT REPOSITORY BARU 
 2.	Jika sudah klik repositories lalu klik new
 ![2](https://user-images.githubusercontent.com/61961641/76600616-d63bb580-6539-11ea-9ec7-c0d8da69a0d2.png)
 
@@ -128,7 +132,7 @@ Selesai..
 ![14](https://user-images.githubusercontent.com/61961641/76600653-e6539500-6539-11ea-9a5a-c1380595c5f6.png) 
 
 
-CARA UNTUK MENAMPILKAN GAMBAR PADA GITHUB
+                                              CARA UNTUK MENAMPILKAN GAMBAR PADA GITHUB
 1.	membuat repository di github klik di pojok kanan atas icon plus kemudian klik New repository seperti gambar di bawah ini :
 ![1](https://user-images.githubusercontent.com/61961641/76601299-34b56380-653b-11ea-9e39-81a8fdc0e3f3.png)
 

@@ -1,4 +1,4 @@
-                                                          PENGERTIAN GITHUB
+                                                    PENGERTIAN GITHUB
 Apa Itu Git?
 Sebelum membahas topik ini lebih lanjut, Anda harus tahu dan paham kalau Git adalah inti atau jantung GitHub. Git merupakan sistem pengontrol versi yang dikembangkan oleh Linus Torvalds (yang juga menciptakan dan mengembangkan Linux).
 Apa Itu Sistem Pengontrol Versi?
@@ -11,7 +11,7 @@ Selain berkontribusi dalam proyek tertentu, GitHub juga memungkinkan usernya unt
 GitHub memang berperan sangat penting dalam memuluskan pekerjaan developer. Namun, platform ini tidak terpaku pada developer saja. Siapa pun bisa menggunakannya untuk mengelola proyek dan bekerja bersama-sama dengan rekan lainnya.
 Jika saat ini Anda dan tim sedang mengerjakan proyek yang harus diupdate secara berkala dan ingin melacak serta menyimpan perubahan apa pun yang terjadi, maka GitHub merupakan platform yang tepat untuk aktivitas seperti ini.
  
-                                                        CARA INSTALL GIT
+                                                 CARA INSTALL GIT
 1.	Download git pada website resmi nya git-scm.com, kemudian unduh git sesuai dengan arsitektur komputer kita
 ![1](https://user-images.githubusercontent.com/61961641/76599661-0c783580-6538-11ea-9407-7bc4113bfcc0.png)
 
@@ -76,8 +76,8 @@ i.	git branch
 melihat branch yang tersedia pada repositori.
 j.	git merge
 menggabungkan semua branch yang ada pada repositori.
- 
-                                          CARA LOGIN AKUN GITHUB DAN MEMBUBUAT REPOSITORY BARU
+
+                                        CARA LOGIN AKUN GITHUB DAN MEMBUBUAT REPOSITORY BARU
 LOGIN GITHUB
 1.	Buka github.com dibrowser
 ![1](https://user-images.githubusercontent.com/61961641/76600609-d3d95b80-6539-11ea-8a5b-de18ae3245cd.jpg)

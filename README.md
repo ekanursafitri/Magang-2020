@@ -116,13 +116,13 @@ CARA MEMBUAT REPOSITORY BARU 
 ![10](https://user-images.githubusercontent.com/61961641/76600643-e2277780-6539-11ea-8660-bcce54334ecf.png)
 
 11.	Selanjutnya Git commit digunakan untuk menyimpan perubahan, dan setiap perubahan ini wajib memberikan keterangan pada setiap perubahan.
-![11](https://user-images.githubusercontent.com/61961641/76600645-e358a480-6539-11ea-9dd1-4fd9dac3d678.png)
+![11 (2)](https://user-images.githubusercontent.com/61961641/76734632-efd93900-6795-11ea-89b4-65e9a93f8443.png)
 
 12.	Melakukan cek kembali untuk melihat hasil ‘git status’
-![12](https://user-images.githubusercontent.com/61961641/76600646-e3f13b00-6539-11ea-8489-5ed13dc69a8e.png)
+![12 (2)](https://user-images.githubusercontent.com/61961641/76734832-5199a300-6796-11ea-9c68-c6c89961350a.png)
 
 13.	Lalu melakukan git push yaitu mengirimkan perubahan file setelah di commit ke repositori.
-![13](https://user-images.githubusercontent.com/61961641/76600651-e5bafe80-6539-11ea-8888-4749da20b86b.png)
+![11 (3)](https://user-images.githubusercontent.com/61961641/76734979-9ae9f280-6796-11ea-8829-0256bb617ff8.png)
  
 Maka akan muncul seperti gambar dibawah
 ![13 lagi](https://user-images.githubusercontent.com/61961641/76600648-e489d180-6539-11ea-8cc1-5a85b2efd7fe.png)
